@@ -1,9 +1,5 @@
----
-title: Guia Linux - Comandos Essenciais
-author: Bárbara Ayres
-date: 2024
-lang: pt-br
----
+Author: Bárbara Ayres
+
 
 Sumário 
 - [1. Guia Linux](#1-guia-linux)
